@@ -1,6 +1,6 @@
-# Nodejs Expressjs MongoDB Ready-to-use API Project Structure
+# Node.js, Express.js, MongoDB Ready-to-use API Project Structure
 
-A ready-to-use boilerplate for REST API Development with Node.js, Express, and MongoDB
+A ready-to-use MVC boilerplate for REST API Development with Node.js, Express.js, and MongoDB.
 
 ## Getting started
 
