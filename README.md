@@ -30,7 +30,7 @@ This project will run on **NodeJs** using **MongoDB** as database. I had tried t
 1.  Clone the project from github. Change "myproject" to your project name.
 
 ```bash
-git clone https://github.com/maitraysuthar/rest-api-nodejs-mongodb.git ./myproject
+git clone https://github.com/Danielxhxh/mvc-boilerplate-for-node.js.git ./myproject
 ```
 
 ### Using manual download ZIP
